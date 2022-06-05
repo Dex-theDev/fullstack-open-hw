@@ -1,0 +1,7 @@
+POST http://localhost:10533/api/notes
+Content-Type: application/json
+
+{
+    "content" : "testing this out",
+    "works": false
+}
